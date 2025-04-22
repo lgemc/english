@@ -35,3 +35,11 @@ Examples:
 
 - You should be kinder to people who are in need
 - You should have told me that you needed help.
+
+### Why passive voice is included here?
+
+It is because some times we want change the weight of the phrase to give more relevance to the thing that was done instead who
+
+For example
+
+This mistake shouldn't have been made 
