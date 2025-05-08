@@ -39,4 +39,8 @@ A person who enjoy to have many friends, is very sociable and loves interacting 
 # social network 
 
 
+# About good selfishness and bad selfishness
 
+First of all, *self* refers to things about the same person fels or do for it self, selfishness means to tend to act 
+for himself, so, some actions did for himself can be good if does not affect to anybody, bot some things can harm
+others and is called bad selfishness 
