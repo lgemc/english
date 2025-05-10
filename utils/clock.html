@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Customizable Analog Clock</title>
+  <style>
+    body {
+      background-color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    canvas {
+      background: white;
+    }
+
+    input {
+      margin: 10px;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="clock" width="400" height="400"></canvas>
+  <div>
+    <label>Set Hour:
+      <input type="number" id="hour" min="0" max="23" value="10">
+    </label>
+    <label>Set Minute:
+      <input type="number" id="minute" min="0" max="59" value="30">
+    </label>
+    <button onclick="startClock()">Set Time</button>
+  </div>
+
+  <script>
+    const canvas = document.getElementById("clock");
+    const ctx = canvas.getContext("2d");
+    const radius = canvas.height / 2;
+    ctx.translate(radius, radius);
+
+    let hour = 10;
+    let minute = 30;
+
+    function drawClock() {
+      drawFace(ctx, radius);
+      drawNumbers(ctx, radius);
+      drawTime(ctx, hour, minute);
+    }
+
+    function drawFace(ctx, radius) {
+      ctx.beginPath();
+      ctx.arc(0, 0, radius * 0.95, 0, 2 * Math.PI);
+      ctx.fillStyle = "white";
+      ctx.fill();
+
+      ctx.strokeStyle = "black";
+      ctx.lineWidth = 4;
+      ctx.stroke();
+    }
+
+    function drawNumbers(ctx, radius) {
+      ctx.font = radius * 0.15 + "px Arial";
+      ctx.textBaseline = "middle";
+      ctx.textAlign = "center";
+      ctx.fillStyle = "black";
+
+      for (let num = 1; num <= 12; num++) {
+        let angle = (num * Math.PI) / 6;
+        let x = radius * 0.8 * Math.sin(angle);
+        let y = -radius * 0.8 * Math.cos(angle);
+        ctx.fillText(num.toString(), x, y);
+      }
+    }
+
+    function drawTime(ctx, hour, minute) {
+      let hourAngle = ((hour % 12) + minute / 60) * Math.PI / 6;
+      let minuteAngle = (minute * Math.PI) / 30;
+
+      // Hour hand
+      drawHand(ctx, hourAngle, radius * 0.5, 6);
+
+      // Minute hand
+      drawHand(ctx, minuteAngle, radius * 0.75, 4);
+    }
+
+    function drawHand(ctx, pos, length, width) {
+      ctx.beginPath();
+      ctx.lineWidth = width;
+      ctx.lineCap = "round";
+      ctx.moveTo(0, 0);
+      ctx.rotate(pos);
+      ctx.lineTo(0, -length);
+      ctx.stroke();
+      ctx.rotate(-pos);
+    }
+
+    function startClock() {
+      hour = parseInt(document.getElementById("hour").value);
+      minute = parseInt(document.getElementById("minute").value);
+      ctx.clearRect(-radius, -radius, canvas.width, canvas.height);
+      drawClock();
+    }
+
+    drawClock();
+  </script>
+</body>
+</html>

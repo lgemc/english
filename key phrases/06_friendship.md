@@ -1,0 +1,2 @@
+- Most of the time a clique highly influences the way we behave.
+-
