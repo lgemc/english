@@ -1,2 +1,5 @@
 - Most of the time a clique highly influences the way we behave.
--
+- If you hang out with people that drink every friday your instinct will probably be to dring on fridays
+- If most people you know have a car you will probably will buy one
+- Loved ones means that everyone feels a srong connection with each other
+- Follow my loved ones suggestions helps me avoid bad influences from acquaintances
