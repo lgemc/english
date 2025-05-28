@@ -4,7 +4,7 @@
 
 ## Grammar form: **to + base verb**
 
-She uses its umbrela to prevent getting to warm from the sun 
+She uses its umbrella to prevent getting to warm from the sun 
 
 He uses a hat to protect himself from the sun's heat.
 
@@ -13,9 +13,9 @@ He uses a hat to protect himself from the sun's heat.
 
 *This is more formal*
 
-They should test everithing in order to prevent errors in the system
+They should test everything in order to prevent errors in the system
 
-They should test everithing in order to not have errors in the system
+They should test everything in order to not have errors in the system
 
 They should test everything so as not to cause errors in the system
 
@@ -25,7 +25,7 @@ They should test everything so as to ensure the system runs without errors
 
 ## Grammar form: for + verb: purpose
 
-## Gramar form: for + ing: purpose or function of something 
+## Grammar form: for + ing: purpose or function of something 
 
 # Negative purposes
 
@@ -33,5 +33,5 @@ They should test everything so as to ensure the system runs without errors
 
 ## Grammar form: stop (something / someone) + ing 
 
-An airtag prevent keys from getting lost all the time
+An air-tag prevent keys from getting lost all the time
 

@@ -1,4 +1,4 @@
-# Expressiong criticism
+# Expressing criticism
 
 We can express it on **present** and **past** whit should, shouldn't or could (but not couldn't)
 
