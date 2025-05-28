@@ -18,3 +18,33 @@ to the doubt about what we are saying, and also to show that we open space to di
 - may
 - might 
 - could
+- shall
+- would
+- have
+
+## Other verbs
+- appear
+- indicates
+- suggest
+- seem
+
+History appear to have cycles and seems to be repeated
+
+Cellphone antennas could be changing our brains
+
+## Passive reporting structures
+
+Verbs used:
+
+- believe
+- think
+- say
+- assume
+- report
+- suppose
+- claim 
+
+Examples
+
+It is believed that pass under stairs means bad luck
+

@@ -4,10 +4,10 @@ Words which ends in T or D
 Wanted
 Needed
 
-# /d/
+# /t/
 
 Words which ends in P, K, F, C, X, GH , SH , SS,  CH
 
-# /t/
+# /d/
 
 L, N, R, G, Z, V, M, B, Z

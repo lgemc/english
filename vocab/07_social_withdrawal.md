@@ -4,6 +4,6 @@ When you are having difficult times, some times you need to be alone with your t
 
 # get away from it all
 
-Some times you need to get away from it all to thing very well what to do in order to be successfull about some specific topic
+Some times you need to get away from it all to thing very well what to do in order to be successful about some specific topic
 
 # get some peace and quiet 

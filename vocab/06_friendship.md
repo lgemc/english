@@ -1,13 +1,12 @@
 # slightly
 A little bit, small degree 
 # acquaintance əˈkwān(t)ns
--- conocida
 A person who is known slightly, not a closer friend, like
 people at work
 
 Humans can handle until five hundred of acquaintances 
 ## Examples
-She is not a closer friend, just an acquintance from school 
+She is not a closer friend, just an acquaintance from school 
 
 # casual friend
 A person that you know and get along to but is not a closer friend

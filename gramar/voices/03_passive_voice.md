@@ -9,3 +9,8 @@
 | Future (will)           | He will write a letter.        | A letter **will be written**.        |
 | Future Perfect          | He will have written a letter. | A letter **will have been written**. |
 | Modal (can/must/should) | He can write a letter.         | A letter **can be written**.         |
+
+**It always uses verbs in past participle**
+
+The book was read by him
+The building was designed by her

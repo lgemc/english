@@ -4,15 +4,18 @@ Used to express likelihood, ability, permission, request, capacity
 
 List
 
-## Can
-## Could
-## May
-## Might 
-## Should
-## Shall
-## Must
-## Ought to
-## Have to
-## Will
-## Would
+## Can ⭐️⭐️⭐️⭐️⭐️
+## Could ⭐️⭐️
+## Should ⭐️⭐️⭐️⭐️
+## Shall ⭐️⭐️⭐️⭐️⭐️
+## Must ⭐️⭐️⭐️⭐️⭐️
+## Might ⭐️⭐️
+## May ⭐️⭐️⭐️
+## Ought to ⭐️⭐️⭐️⭐️
+## Could ⭐️⭐️
+## Couldn't ⭐️⭐️⭐️⭐️⭐️
+## Have to ⭐️⭐️⭐️⭐️⭐️
+## Will ⭐️⭐️⭐️⭐️⭐️
+## Won't ⭐️⭐️⭐️⭐️⭐️
+## Would ⭐️⭐️⭐️
 - Hypothetical 
