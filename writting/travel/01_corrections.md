@@ -1,96 +1,43 @@
-# Corrections and Analysis for "Mi viaje más reciente con mis padres"
+## Mi viaje más reciente con mis padres
+Nunca había viajado con mis padres solo por diversión. No fue sino hasta junio de 2025 que decidimos hacer un viaje juntos.
 
-## Spanish Corrections
+Fue difícil convencerlos porque ellos no viajan muy a menudo. Al principio se negaron, pero luego de múltiples intentos de convencerlos y de mantener una posición firme, accedieron a viajar a Bogotá, la ciudad donde actualmente vivo.
 
-### Accents and Spelling
-- **más** (not "mas") - Comparative adverb requires accent
-- **había** (not "habia") - Imperfect tense requires accent
-- **diversión** (not "diversion") - Noun requires accent
-- **difícil** (not "dificil") - Adjective requires accent
-- **múltiples** (not "multiples") - Adjective requires accent
-- **posición** (not "posiion") - Noun requires accent, also fixed typo
-- **Bogotá** (not "Bogota") - Proper noun requires accent
-- **divagué** (not "divague") - First person preterite requires accent
-- **policía** (not "policia") - Noun requires accent
-- **llevaba** (not "llevava") - Imperfect tense uses 'b' not 'v'
-- **pareció** (not "parecio") - Preterite tense requires accent
-- **dejó** (not "dejo") - Preterite tense requires accent
-- **cédula** (not "cedula") - Noun requires accent
+El viaje es largo: 8 horas en bus. Viajaron de noche y llegaron a la terminal a las 9 a.m., día en el que fui a recogerlos.
 
-### Grammar and Structure
-- **"mis padres"** (not "mmis padres") - Fixed typo
-- **"No fue sino hasta"** (not "No fue si no hasta") - "sino" is one word when meaning "but rather"
-- **"llegaron"** (not "arrivaron") - Correct verb is "llegar"
-- **Better punctuation** - Added colons and periods for clarity
-- **"En un inicio se negaron, pero"** - Added comma for better flow
+Ese día en la terminal me pasó algo curioso. Fue difícil encontrar la posición en la que estaban, por lo que vagué mucho por toda la terminal, hasta que una agente de policía me detuvo para verificar mi identificación. En ese momento llevaba una maleta con un libro de inteligencia artificial. A la agente le pareció curioso y me dejó continuar luego de verificar mi número de cédula en el sistema de la policía.
 
-## English Corrections
+## My most recent trip with my parents
+I had never traveled with my parents just for fun. It wasn’t until June 2025 that we decided to take a trip together.
 
-### Vocabulary and Word Choice
-- **"trip"** (not "travel") - "Travel" is a verb/uncountable noun; "trip" is the countable noun
-- **"take a trip"** (not "have a travel") - Correct collocation
-- **"convince"** (not "convice") - Correct spelling
-- **"usually"** (not "used to") - "Don't usually" is more natural than "don't used to"
-- **"refused"** (not "neglet") - Correct verb and spelling
-- **"attempts"** (not "tries") - More formal register
-- **"firm stance"** (not "strict position") - More natural collocation
-- **"long"** (not "large") - Trips are long, not large
-- **"by bus"** (not "in a bus") - Correct preposition for mode of transport
-- **"pick them up"** (not "receive them") - More natural phrasal verb
-- **"wandered"** (not "walked a lot") - More precise and elegant verb
-- **"police officer"** (not "police agent") - Correct term
-- **"stopped"** (not "retain") - More appropriate verb
-- **"she found it curious"** (not "was courious to") - Better structure and correct spelling
+It was difficult to convince them because they don’t usually travel. At first, they refused, but after many attempts to persuade them and standing my ground, they agreed to travel to Bogotá, which is the city I currently live in.
 
-### Grammar Issues
-- **"June 2025"** (not "June of 2025") - No preposition needed with months and years
-- **"they arrived"** (not "them arrived") - Subject pronoun, not object
-- **"when I went"** (not "and i went") - Better conjunction and capitalization
-- **"something curious happened to me"** - Better word order
-- **"it was difficult to find where my parents were"** - Complete subordinate clause
-- **"I was carrying"** (not "i carried") - Past continuous for ongoing action
-- **"let me continue"** (not "leave me") - Correct phrasal verb
+The trip is long—about 8 hours by bus. They traveled overnight and arrived at the terminal at 9 a.m., and I went to pick them up.
 
-### Punctuation and Style
-- Added colons for emphasis and clarity
-- Improved paragraph breaks and flow
-- Consistent capitalization
+That day at the terminal, something curious happened to me. It was difficult to find where my parents were, so I wandered around the entire terminal. A police officer stopped me to check my identification, apparently because I looked suspicious. At the time, I was carrying a bag with a book on artificial intelligence. The officer found it interesting and let me go after checking my ID number in their system.
 
-## Topics to Study
 
-### Spanish Grammar Focus
-1. **Acentuación** - Rules for written accents (palabras agudas, graves, esdrújulas)
-2. **Pretérito vs Imperfecto** - When to use each past tense
-3. **Spelling patterns** - "b" vs "v" in verb conjugations
-4. **Sino vs Si no** - Understanding the difference
 
-### English Grammar Focus
-1. **Countable vs Uncountable nouns** - Travel/trip distinction
-2. **Prepositions of transport** - by/in/on with vehicles
-3. **Phrasal verbs** - pick up, let continue, etc.
-4. **Past tenses** - Simple past vs past continuous usage
-5. **Relative clauses** - "where my parents were" structure
+Explicaciones:
 
-### Vocabulary Development
-1. **Collocations** - take a trip, firm stance, pick someone up
-2. **Register** - Formal vs informal language choices
-3. **Precision** - Choosing exact words (wander vs walk, refuse vs neglect)
+“No fue si no” → “No fue sino”: es una sola palabra en este contexto adversativo.
 
-## Writing Style Improvements
+“posiion” → “posición”: error tipográfico.
 
-### For Spanish
-- Use more varied sentence structures
-- Add more descriptive details
-- Improve paragraph organization
+“arrivaron” → “llegaron”: "arrivar" existe pero es poco común; "llegar" es más natural.
 
-### For English
-- Focus on natural collocations
-- Use more sophisticated vocabulary
-- Improve flow between sentences
-- Practice subordinate clauses
+“me paso algo curioso” → “me pasó algo curioso”: faltaba tilde.
 
-## Recommended Practice
-1. **Dictation exercises** in Spanish to improve accent placement
-2. **Collocation practice** in English
-3. **Tense practice** - mixing past tenses in narratives
-4. **Proofreading** - always check for spelling and accent errors
+“divague” → “vagué”: "divagar" implica hablar sin rumbo, “vagar” implica moverse sin rumbo, que es lo que describes.
+
+“llevava” → “llevaba”
+
+“le parecio” → “le pareció”
+
+I had never traveled with my parents just for fun. It was not until June of 2025 that we decided to have a travel [❌ take a trip is the correct collocation] together.
+
+It was difficult to convince them because they don't used to travel [❌ incorrect tense and structure. Use: don’t usually travel]. They neglet [❌ verb doesn’t exist in this form. Use: refused or declined] a few times but after many tries of convice them [❌ attempts to convince them], and a strict position [❌ awkward; better: standing my ground], they agreed to travel to Bogota. Bogota is the city where i live [⛔ Capitalize I. Better style: which is the city I currently live in].
+
+The trip is large [❌ wrong word. Use long], it takes 8 hours in a bus [✅ grammatically OK, but by bus is natural]. They traveled at night and them arrived [❌ they arrived] to the bus terminal at 9am, and i went to receive them [❌ say: I went to pick them up].
+
+This day on the bus terminal some courious happened to me [❌ Very unnatural. Say: That day at the terminal, something curious happened to me], was difficut found where my parents was [❌ it was difficult to find where my parents were], and because of the difficulty to find them i walked a lot on the whole terminal [❌ better: I wandered around the entire terminal], until a police agent retain me [❌ say: officer stopped me] to verify my identification, because apparently i was very suspicious [✅ fine], at this moment i carried a bag with an artificial intelligence book inside [❌ awkward. Better: at the time, I was carrying a bag with a book on artificial intelligence], this was courious to the police agent and they leave me after to verify my id number [❌ say: the officer found it interesting and let me go after verifying my ID number] on their system [✅ correct, though you could say in their system].
